@@ -23,7 +23,7 @@ This is an online single-player card game that consists of 4 different types of 
 
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/nareshkumaralaria/exploding-kittens-game.gi
+git clone https://github.com/nareshkumaralaria/exploding-kittens-game.git
 
 ```
 ## Front-end
